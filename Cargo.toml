@@ -1,0 +1,7 @@
+[package]
+name = "civ"
+version = "0.1.0"
+authors = ["coderbot <Berd.r@att.net>"]
+
+[dependencies]
+byteorder = "0.5"
